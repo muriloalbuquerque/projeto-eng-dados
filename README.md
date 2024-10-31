@@ -42,8 +42,4 @@ O projeto envolve os seguintes processos:
 6. **Exploração de Dados**
    - Análise exploratória utilizando Jupyter Notebook no VS Code
 
-## Como Executar o Projeto
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
